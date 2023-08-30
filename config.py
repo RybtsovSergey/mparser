@@ -1,0 +1,9 @@
+MPSTATS_COOKIES = {
+    'userlogin': 'a%3A2%3A%7Bs%3A3%3A%22lgn%22%3Bs%3A17%3A%22rybtsov%40gmail.com%22%3Bs%3A3%3A%22pwd%22%3Bs%3A32%3A%223a5b1373d6d4da01ca60e82f8d919044%22%3B%7D'
+}
+
+DB_HOST = '192.168.1.127'
+DB_PORT = 6000
+DB_USER = 'rdb'
+DB_PASS = 'mrhszNYNh5jG6b'
+DB_BASE = 'rdb'
